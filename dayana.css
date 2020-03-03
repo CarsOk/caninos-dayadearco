@@ -1,0 +1,143 @@
+*{
+    margin: 0pc;
+    padding: 0pc;
+
+}
+    
+.container{
+   width: 750px;
+   height: 850px;
+   margin: auto;
+   border-radius: 10px 10px 10px 10px;
+ 
+}  
+.superior{
+    background: indigo;
+}
+
+.superior img {
+    width: 100%;
+}
+
+.menu {
+    background: indigo;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+ul {
+    margin-left: 80px;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+    list-style-type: none;
+    
+}
+
+ul li a {
+    color: honeydew;
+    text-decoration: none;
+    
+}
+
+section {
+
+    background: goldenrod;
+    margin-bottom: 15px;
+    border-radius: 10px 10px 0 0;
+    height: 250px;
+    border: goldenrod;
+    
+}
+
+section h2 {
+    padding: 5px;
+
+}
+img{
+    float: right;
+    
+
+}
+
+section p {
+    padding: 5px;
+}
+
+aside {
+    background: gray;
+    border-radius: 10px 10px 0 0;
+    width: 257px;
+    height: 515px;
+    
+}
+
+
+#formulario{
+	margin-top: 2px;
+	text-align: left;
+	margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+   
+
+}
+
+input{
+	width: 100px;
+	height: 20px;
+    margin-right: 5px;
+    border-radius: 0px 0px;
+    margin-top: 10px;
+    float: right;
+
+}
+
+label{
+	width: 100px;
+	height: 20px;
+    margin-right: 5px;
+    border-radius: 0px 0px;
+    margin-top: 14px;
+    float: left;
+
+}
+
+
+
+aside h2 {
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+main .secciones {
+    width: 60%;
+    margin-right: 10px;
+    float: left;
+
+}
+
+main aside {
+    float: left;
+}
+footer{
+    width: 750px;
+    height: 100px;
+    background-color: rgb(83, 6, 172);
+    text-align: center;
+    float: left;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+
+
+
+
+
+
+
